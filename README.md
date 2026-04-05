@@ -99,6 +99,7 @@ pip install -r requirements.txt
 Copy example to `.env` and fill in your credentials:
 
 example:
+```bash
 NYCKEL_CLIENT_ID=your_client_id
 NYCKEL_CLIENT_SECRET=your_client_secret
 ```
