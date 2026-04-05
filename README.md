@@ -107,10 +107,6 @@ NYCKEL_CLIENT_SECRET=your_client_secret
 ### 4. Run the notebooks
 Open Jupyter and run notebooks within each folder.
 
-```bash
-jupyter notebook
-```
-
 ---
 
 ## Requirements
