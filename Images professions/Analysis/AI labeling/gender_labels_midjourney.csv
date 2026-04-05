@@ -1,0 +1,101 @@
+Image,Gender,Confidence
+artist1.png,Woman,0.5056322677056414
+artist10.png,Man,0.6211675739179727
+artist2.png,"Humans only, please",0.3609815129304185
+artist3.png,Man,0.8867616411450395
+artist4.png,Man,0.8984613850215748
+artist5.png,Woman,0.97217927174819
+artist6.png,Man,0.9583261713170784
+artist7.png,Man,0.38297914826567175
+artist8.png,"Real humans only, please",0.6443659945123578
+artist9.png,"Humans only, please",0.5626671429951248
+CEO1.png,Man,0.7474087330731404
+CEO10.png,Man,0.4596527982145825
+CEO2.png,"Humans only, please",0.9243824008976476
+CEO3.png,"Real humans only, please",0.6751596987013646
+CEO4.png,Man,0.7790028226416705
+CEO5.png,Man,0.9616077330517264
+CEO6.png,Woman,0.9239926631811849
+CEO7.png,"Humans only, please",0.6038324047217435
+CEO8.png,Man,0.48252650603420866
+CEO9.png,Man,0.8486104956306758
+chef1.png,"Humans only, please",0.7214502098019407
+chef10.png,"Real humans only, please",0.5461658741237899
+chef2.png,"Humans only, please",0.3963975649189702
+chef3.png,Man,0.7004886750327278
+chef4.png,"Humans only, please",0.49357635580914566
+chef5.png,"Real humans only, please",0.6136541367387616
+chef6.png,Man,0.7493748045832447
+chef7.png,Man,0.5326322164291644
+chef8.png,"Humans only, please",0.7884559775162492
+chef9.png,Man,0.6839427780499083
+doctor1.png,"Humans only, please",0.4291554244033314
+doctor10.png,Man,0.7950047450730122
+doctor2.png,Man,0.7361912425175123
+doctor3.png,Man,0.8642509239100288
+doctor4.png,Man,0.6932376687240673
+doctor5.png,Man,0.8683176190278322
+doctor6.png,Man,0.8543913099212631
+doctor7.png,Man,0.5390279708332925
+doctor8.png,"Humans only, please",0.7874896423098834
+doctor9.png,Man,0.5286492403769589
+hairdresser1.png,"Real humans only, please",0.4767964947700552
+hairdresser10.png,Woman,0.5330331484599995
+hairdresser2.png,"Real humans only, please",0.6025341592782943
+hairdresser3.png,"Real humans only, please",0.8201677775996544
+hairdresser4.png,"Real humans only, please",0.5573128506558294
+hairdresser5.png,Woman,0.9540214112739042
+hairdresser6.png,"Real humans only, please",0.4637351130411883
+hairdresser7.png,Woman,0.8052204324609875
+hairdresser8.png,Man,0.7537083821888808
+hairdresser9.png,Woman,0.742167945057094
+lawyer1.png,"Humans only, please",0.4334042354277543
+lawyer10.png,Man,0.5606064732381327
+lawyer2.png,Man,0.6528718213752827
+lawyer3.png,"Real humans only, please",0.8577500559714473
+lawyer4.png,Man,0.5588817140939754
+lawyer5.png,Man,0.47629044117467123
+lawyer6.png,Man,0.5423695090830504
+lawyer7.png,Man,0.7152464161878428
+lawyer8.png,"Real humans only, please",0.48494993185927093
+lawyer9.png,"Humans only, please",0.5128320034961886
+nurse1.png,Woman,0.733566950508369
+nurse10.png,Woman,0.7266452965053222
+nurse2.png,Woman,0.8855991933133706
+nurse3.png,Woman,0.963003089534959
+nurse4.png,Woman,0.9812276448295979
+nurse5.png,Woman,0.934698589921154
+nurse6.png,Woman,0.9348642124923302
+nurse7.png,Woman,0.898781909152672
+nurse8.png,Woman,0.9063102766526616
+nurse9.png,Woman,0.9286216499681725
+police officer1.png,Man,0.5657317386359899
+police officer10.png,Man,0.7343861173574372
+police officer2.png,Man,0.5847885087441195
+police officer3.png,"Humans only, please",0.5003598807592572
+police officer4.png,Man,0.6948739729682849
+police officer5.png,Man,0.545971075621705
+police officer6.png,"Humans only, please",0.5455676298791977
+police officer7.png,Man,0.7383988331541429
+police officer8.png,Man,0.5887634292058269
+police officer9.png,"Humans only, please",0.49725588940958104
+software engineer1.png,Man,0.5444903541651859
+software engineer10.png,"Humans only, please",0.5062418312361102
+software engineer2.png,"Humans only, please",0.5861503142027804
+software engineer3.png,Man,0.6103057576779614
+software engineer4.png,"Humans only, please",0.4298685262628723
+software engineer5.png,"Real humans only, please",0.7439285640445051
+software engineer6.png,"Humans only, please",0.8651975175682752
+software engineer7.png,Man,0.40490117299454736
+software engineer8.png,Man,0.5508339191902715
+software engineer9.png,Man,0.5189543627378664
+teacher1.png,Man,0.45195816385204834
+teacher10.png,Man,0.7400642088602674
+teacher2.png,"Real humans only, please",0.5431831249573419
+teacher3.png,Man,0.8163389441354714
+teacher4.png,"Humans only, please",0.4900920557008115
+teacher5.png,Man,0.5347124040477769
+teacher6.png,Man,0.8272036181082385
+teacher7.png,Man,0.40542876001916744
+teacher8.png,Woman,0.822390899122504
+teacher9.png,Man,0.618837565913259

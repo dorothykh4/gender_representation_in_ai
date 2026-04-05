@@ -1,0 +1,301 @@
+﻿id,model,profession
+1,dalle,artist
+2,dalle,artist
+3,dalle,artist
+4,dalle,artist
+5,dalle,artist
+6,dalle,artist
+7,dalle,artist
+8,dalle,artist
+9,dalle,artist
+99,dalle,artist
+1,dalle,CEO
+2,dalle,CEO
+3,dalle,CEO
+4,dalle,CEO
+5,dalle,CEO
+6,dalle,CEO
+7,dalle,CEO
+8,dalle,CEO
+9,dalle,CEO
+99,dalle,CEO
+1,dalle,doctor
+2,dalle,doctor
+3,dalle,doctor
+4,dalle,doctor
+5,dalle,doctor
+6,dalle,doctor
+7,dalle,doctor
+8,dalle,doctor
+9,dalle,doctor
+99,dalle,doctor
+1,dalle,software engineer
+2,dalle,software engineer
+3,dalle,software engineer
+4,dalle,software engineer
+5,dalle,software engineer
+6,dalle,software engineer
+7,dalle,software engineer
+8,dalle,software engineer
+9,dalle,software engineer
+99,dalle,software engineer
+1,dalle,chef
+2,dalle,chef
+3,dalle,chef
+4,dalle,chef
+5,dalle,chef
+6,dalle,chef
+7,dalle,chef
+8,dalle,chef
+9,dalle,chef
+99,dalle,chef
+1,dalle,hairdresser
+2,dalle,hairdresser
+3,dalle,hairdresser
+4,dalle,hairdresser
+5,dalle,hairdresser
+6,dalle,hairdresser
+7,dalle,hairdresser
+8,dalle,hairdresser
+9,dalle,hairdresser
+99,dalle,hairdresser
+1,dalle,lawyer
+2,dalle,lawyer
+3,dalle,lawyer
+4,dalle,lawyer
+5,dalle,lawyer
+6,dalle,lawyer
+7,dalle,lawyer
+8,dalle,lawyer
+9,dalle,lawyer
+99,dalle,lawyer
+1,dalle,nurse
+2,dalle,nurse
+3,dalle,nurse
+4,dalle,nurse
+5,dalle,nurse
+6,dalle,nurse
+7,dalle,nurse
+8,dalle,nurse
+9,dalle,nurse
+99,dalle,nurse
+1,dalle,police officer
+2,dalle,police officer
+3,dalle,police officer
+4,dalle,police officer
+5,dalle,police officer
+6,dalle,police officer
+7,dalle,police officer
+8,dalle,police officer
+9,dalle,police officer
+99,dalle,police officer
+1,dalle,teacher
+2,dalle,teacher
+3,dalle,teacher
+4,dalle,teacher
+5,dalle,teacher
+6,dalle,teacher
+7,dalle,teacher
+8,dalle,teacher
+9,dalle,teacher
+99,dalle,teacher
+1,midjourney,lawyer
+2,midjourney,lawyer
+3,midjourney,lawyer
+4,midjourney,lawyer
+5,midjourney,lawyer
+6,midjourney,lawyer
+7,midjourney,lawyer
+8,midjourney,lawyer
+9,midjourney,lawyer
+99,midjourney,lawyer
+1,midjourney,police officer
+2,midjourney,police officer
+3,midjourney,police officer
+4,midjourney,police officer
+5,midjourney,police officer
+6,midjourney,police officer
+7,midjourney,police officer
+8,midjourney,police officer
+9,midjourney,police officer
+99,midjourney,police officer
+1,midjourney,doctor
+2,midjourney,doctor
+3,midjourney,doctor
+4,midjourney,doctor
+5,midjourney,doctor
+6,midjourney,doctor
+7,midjourney,doctor
+8,midjourney,doctor
+9,midjourney,doctor
+99,midjourney,doctor
+1,midjourney,CEO
+2,midjourney,CEO
+3,midjourney,CEO
+4,midjourney,CEO
+5,midjourney,CEO
+6,midjourney,CEO
+7,midjourney,CEO
+8,midjourney,CEO
+9,midjourney,CEO
+99,midjourney,CEO
+1,midjourney,teacher
+2,midjourney,teacher
+3,midjourney,teacher
+4,midjourney,teacher
+5,midjourney,teacher
+6,midjourney,teacher
+7,midjourney,teacher
+8,midjourney,teacher
+9,midjourney,teacher
+99,midjourney,teacher
+1,midjourney,artist
+2,midjourney,artist
+3,midjourney,artist
+4,midjourney,artist
+5,midjourney,artist
+6,midjourney,artist
+7,midjourney,artist
+8,midjourney,artist
+9,midjourney,artist
+99,midjourney,artist
+1,midjourney,chef
+2,midjourney,chef
+3,midjourney,chef
+4,midjourney,chef
+5,midjourney,chef
+6,midjourney,chef
+7,midjourney,chef
+8,midjourney,chef
+9,midjourney,chef
+99,midjourney,chef
+1,midjourney,nurse
+2,midjourney,nurse
+3,midjourney,nurse
+4,midjourney,nurse
+5,midjourney,nurse
+6,midjourney,nurse
+7,midjourney,nurse
+8,midjourney,nurse
+9,midjourney,nurse
+99,midjourney,nurse
+1,midjourney,software engineer
+2,midjourney,software engineer
+3,midjourney,software engineer
+4,midjourney,software engineer
+5,midjourney,software engineer
+6,midjourney,software engineer
+7,midjourney,software engineer
+8,midjourney,software engineer
+9,midjourney,software engineer
+99,midjourney,software engineer
+1,midjourney,hairdresser
+2,midjourney,hairdresser
+3,midjourney,hairdresser
+4,midjourney,hairdresser
+5,midjourney,hairdresser
+6,midjourney,hairdresser
+7,midjourney,hairdresser
+8,midjourney,hairdresser
+9,midjourney,hairdresser
+99,midjourney,hairdresser
+1,stable_diffusion,teacher
+2,stable_diffusion,teacher
+3,stable_diffusion,teacher
+4,stable_diffusion,teacher
+5,stable_diffusion,teacher
+6,stable_diffusion,teacher
+7,stable_diffusion,teacher
+8,stable_diffusion,teacher
+9,stable_diffusion,teacher
+99,stable_diffusion,teacher
+1,stable_diffusion,artist
+2,stable_diffusion,artist
+3,stable_diffusion,artist
+4,stable_diffusion,artist
+5,stable_diffusion,artist
+6,stable_diffusion,artist
+7,stable_diffusion,artist
+8,stable_diffusion,artist
+9,stable_diffusion,artist
+99,stable_diffusion,artist
+1,stable_diffusion,CEO
+2,stable_diffusion,CEO
+3,stable_diffusion,CEO
+4,stable_diffusion,CEO
+5,stable_diffusion,CEO
+6,stable_diffusion,CEO
+7,stable_diffusion,CEO
+8,stable_diffusion,CEO
+9,stable_diffusion,CEO
+99,stable_diffusion,CEO
+1,stable_diffusion,software engineer
+2,stable_diffusion,software engineer
+3,stable_diffusion,software engineer
+4,stable_diffusion,software engineer
+5,stable_diffusion,software engineer
+6,stable_diffusion,software engineer
+7,stable_diffusion,software engineer
+8,stable_diffusion,software engineer
+9,stable_diffusion,software engineer
+99,stable_diffusion,software engineer
+1,stable_diffusion,police officer
+2,stable_diffusion,police officer
+3,stable_diffusion,police officer
+4,stable_diffusion,police officer
+5,stable_diffusion,police officer
+6,stable_diffusion,police officer
+7,stable_diffusion,police officer
+8,stable_diffusion,police officer
+9,stable_diffusion,police officer
+99,stable_diffusion,police officer
+1,stable_diffusion,nurse
+2,stable_diffusion,nurse
+3,stable_diffusion,nurse
+4,stable_diffusion,nurse
+5,stable_diffusion,nurse
+6,stable_diffusion,nurse
+7,stable_diffusion,nurse
+8,stable_diffusion,nurse
+9,stable_diffusion,nurse
+99,stable_diffusion,nurse
+1,stable_diffusion,lawyer
+2,stable_diffusion,lawyer
+3,stable_diffusion,lawyer
+4,stable_diffusion,lawyer
+5,stable_diffusion,lawyer
+6,stable_diffusion,lawyer
+7,stable_diffusion,lawyer
+8,stable_diffusion,lawyer
+9,stable_diffusion,lawyer
+99,stable_diffusion,lawyer
+1,stable_diffusion,hairdresser
+2,stable_diffusion,hairdresser
+3,stable_diffusion,hairdresser
+4,stable_diffusion,hairdresser
+5,stable_diffusion,hairdresser
+6,stable_diffusion,hairdresser
+7,stable_diffusion,hairdresser
+8,stable_diffusion,hairdresser
+9,stable_diffusion,hairdresser
+99,stable_diffusion,hairdresser
+1,stable_diffusion,doctor
+2,stable_diffusion,doctor
+3,stable_diffusion,doctor
+4,stable_diffusion,doctor
+5,stable_diffusion,doctor
+6,stable_diffusion,doctor
+7,stable_diffusion,doctor
+8,stable_diffusion,doctor
+9,stable_diffusion,doctor
+99,stable_diffusion,doctor
+1,stable_diffusion,chef
+2,stable_diffusion,chef
+3,stable_diffusion,chef
+4,stable_diffusion,chef
+5,stable_diffusion,chef
+6,stable_diffusion,chef
+7,stable_diffusion,chef
+8,stable_diffusion,chef
+9,stable_diffusion,chef
+99,stable_diffusion,chef

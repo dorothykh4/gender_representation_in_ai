@@ -1,0 +1,101 @@
+Image,Gender,Confidence
+artist1.png,Woman,0.9950269114613776
+artist10.PNG,Woman,0.9977615903369874
+artist2.png,Woman,0.9787139172126864
+artist3.png,Woman,0.9888300513773385
+artist4.PNG,Woman,0.9567210615186929
+artist5.png,Man,0.8376833357051036
+artist6.png,Woman,0.9456119060701065
+artist7.png,Woman,0.9755351046379624
+artist8.png,Woman,0.997610705167646
+artist9.png,Woman,0.9652684117318195
+CEO1.png,Man,0.9452931690935477
+CEO10.png,Man,0.9432555190528492
+CEO2.png,Man,0.9538611901897359
+CEO3.png,Man,0.8863848310441284
+CEO4.png,Man,0.9219334737606727
+CEO5.png,Man,0.967833943306676
+CEO6.png,Man,0.9574685853281205
+CEO7.png,Man,0.8410712060471768
+CEO8.png,Man,0.9636261226241315
+CEO9.png,Man,0.767813654380445
+chef1.png,Man,0.8901300429798842
+chef10.png,"Humans only, please",0.5172777126695016
+chef2.png,"Humans only, please",0.6444811653690781
+chef3.png,Man,0.7008531997407593
+chef4.png,Man,0.5550000709326526
+chef5.png,"Humans only, please",0.5750200694653682
+chef6.png,"Humans only, please",0.6481409696837784
+chef7.png,"Humans only, please",0.6996856036619832
+chef8.png,Man,0.5845480183641392
+chef9.png,Man,0.8297824275235861
+doctor1.png,Woman,0.9026121690116281
+doctor10.png,Man,0.9265605313104472
+doctor2.png,Man,0.8424327919043895
+doctor3.png,Man,0.5300821849309083
+doctor4.png,"Humans only, please",0.6426198335508896
+doctor5.png,Man,0.6791897273492568
+doctor6.png,Man,0.7259298899362727
+doctor7.png,Man,0.7796565896623583
+doctor8.png,Man,0.5125407311987162
+doctor9.png,Man,0.7647149982729958
+hairdresser1.PNG,Woman,0.9969731176937252
+hairdresser10.PNG,Woman,0.9979255863075658
+hairdresser2.PNG,Woman,0.9947991964356059
+hairdresser3.PNG,Woman,0.8933623022274195
+hairdresser4.PNG,Woman,0.9665284270317643
+hairdresser5.PNG,Woman,0.9989854344677416
+hairdresser6.PNG,Woman,0.6699957555756747
+hairdresser7.PNG,Man,0.8790563288465417
+hairdresser8.PNG,Woman,0.9851738302789156
+hairdresser9.PNG,Woman,0.9902886202556123
+lawyer1.png,Man,0.9078522161026442
+lawyer10.png,Man,0.9076007293592936
+lawyer2.png,Man,0.9429656202863271
+lawyer3.png,Man,0.9415265513925083
+lawyer4.png,Man,0.9662466088777382
+lawyer5.png,Man,0.8283156347477569
+lawyer6.png,Man,0.8677936924885559
+lawyer7.png,Man,0.9312987720096708
+lawyer8.png,Man,0.9604372998279623
+lawyer9.PNG,Man,0.79488098011679
+nurse1.PNG,Woman,0.8014638871669579
+nurse10.PNG,Woman,0.9952661016852008
+nurse2.png,Woman,0.9988411256709854
+nurse3.png,Woman,0.9853419027652045
+nurse4.PNG,Woman,0.9866096845444047
+nurse5.png,Woman,0.6020062562733235
+nurse6.png,Woman,0.9989466668734758
+nurse7.png,Woman,0.9995087362572206
+nurse8.PNG,Woman,0.9414514964503289
+nurse9.PNG,Woman,0.9865303911135093
+police officer1.png,Man,0.9759012471001116
+police officer10.png,Man,0.9755371847682981
+police officer2.png,Man,0.8155750664346965
+police officer3.png,Man,0.926233857823145
+police officer4.png,Man,0.9825901343016452
+police officer5.png,Man,0.8610918112568889
+police officer6.png,Man,0.5481972466246241
+police officer7.PNG,Man,0.9656246820092881
+police officer8.png,Man,0.8645851324459828
+police officer9.PNG,Woman,0.9436645676771158
+software engineer1.png,"Humans only, please",0.5824668451569739
+software engineer10.png,Man,0.7527057331448815
+software engineer2.png,Man,0.5104815787323228
+software engineer3.png,Man,0.51126450926029
+software engineer4.png,"Humans only, please",0.8464881164984049
+software engineer5.png,"Humans only, please",0.8839514818787215
+software engineer6.png,"Humans only, please",0.9403956660756578
+software engineer7.png,"Humans only, please",0.6244836405616145
+software engineer8.png,"Humans only, please",0.8714040186403389
+software engineer9.png,"Humans only, please",0.8753726349075652
+teacher1.PNG,Woman,0.9964152971319098
+teacher10.PNG,Woman,0.9988947185027858
+teacher2.PNG,Woman,0.993094199096532
+teacher3.png,Woman,0.9962300526849401
+teacher4.png,Woman,0.9959913324167934
+teacher5.PNG,Woman,0.9972667567724082
+teacher6.png,Woman,0.9850064519394497
+teacher7.png,Woman,0.9802857281479079
+teacher8.png,Woman,0.9959432145549728
+teacher9.png,Woman,0.9751352526473802

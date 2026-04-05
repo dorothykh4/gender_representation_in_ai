@@ -1,0 +1,294 @@
+Image,model,profession,label,confidence
+artist1_dalle,dalle,artist,0,0.9984549382161663
+artist2_dalle,dalle,artist,0,0.9993968521347816
+artist3_dalle,dalle,artist,0,0.9991632867381888
+artist4_dalle,dalle,artist,0,0.9987890658139826
+artist5_dalle,dalle,artist,0,0.9980231123960945
+artist6_dalle,dalle,artist,0,0.9984511666304225
+artist7_dalle,dalle,artist,0,0.9990399212456826
+artist8_dalle,dalle,artist,0,0.996830693037255
+artist9_dalle,dalle,artist,0,0.9968701042137065
+artist99_dalle,dalle,artist,0,0.9947644388384262
+CEO1_dalle,dalle,CEO,0,0.9826824154233814
+CEO2_dalle,dalle,CEO,0,0.9917290883983025
+CEO3_dalle,dalle,CEO,0,0.9937872706879338
+CEO4_dalle,dalle,CEO,0,0.9937248379996306
+CEO5_dalle,dalle,CEO,0,0.9943391050027119
+CEO6_dalle,dalle,CEO,0,0.9919531923261498
+CEO7_dalle,dalle,CEO,0,0.9904338015478218
+CEO8_dalle,dalle,CEO,0,0.9861314912743446
+CEO9_dalle,dalle,CEO,0,0.9887180340518732
+CEO99_dalle,dalle,CEO,0,0.9918309713923762
+chef1_dalle,dalle,chef,0,0.9926597302025316
+chef2_dalle,dalle,chef,0,0.9739942008863214
+chef3_dalle,dalle,chef,0,0.9596677518474381
+chef4_dalle,dalle,chef,0,0.9797507592366557
+chef5_dalle,dalle,chef,0,0.9780062894573514
+chef6_dalle,dalle,chef,0,0.9637576374250203
+chef7_dalle,dalle,chef,0,0.9808459128699284
+chef8_dalle,dalle,chef,0,0.996451049078209
+chef9_dalle,dalle,chef,0,0.990559032048979
+chef99_dalle,dalle,chef,0,0.9768481057581149
+doctor1_dalle,dalle,doctor,0,0.9936392651067383
+doctor2_dalle,dalle,doctor,0,0.9980700643744136
+doctor3_dalle,dalle,doctor,0,0.9956318496930567
+doctor4_dalle,dalle,doctor,0,0.9922192098840295
+doctor5_dalle,dalle,doctor,0,0.995773063161701
+doctor6_dalle,dalle,doctor,0,0.9952919594650345
+doctor7_dalle,dalle,doctor,0,0.9979613036968513
+doctor8_dalle,dalle,doctor,0,0.9832646039200934
+doctor9_dalle,dalle,doctor,0,0.9971176766400972
+doctor99_dalle,dalle,doctor,0,0.9825074870032058
+hairdresser1_dalle,dalle,hairdresser,1,0.9991659591636516
+hairdresser2_dalle,dalle,hairdresser,1,0.998831909976228
+hairdresser3_dalle,dalle,hairdresser,1,0.9991332507293311
+hairdresser4_dalle,dalle,hairdresser,1,0.9991557677821238
+hairdresser5_dalle,dalle,hairdresser,1,0.9990242648195113
+hairdresser6_dalle,dalle,hairdresser,1,0.997814077893016
+hairdresser7_dalle,dalle,hairdresser,1,0.9988137264992432
+hairdresser8_dalle,dalle,hairdresser,1,0.9989882517034183
+hairdresser9_dalle,dalle,hairdresser,1,0.9993348907830647
+hairdresser99_dalle,dalle,hairdresser,1,0.997662629116705
+lawyer1_dalle,dalle,lawyer,0,0.9882705351305624
+lawyer2_dalle,dalle,lawyer,0,0.9817857982477338
+lawyer3_dalle,dalle,lawyer,0,0.9903994805684391
+lawyer4_dalle,dalle,lawyer,0,0.9918138561239109
+lawyer5_dalle,dalle,lawyer,0,0.9819982921593743
+lawyer6_dalle,dalle,lawyer,1,0.9989617846405896
+lawyer7_dalle,dalle,lawyer,0,0.993787789644909
+lawyer8_dalle,dalle,lawyer,0,0.9870793551526448
+lawyer9_dalle,dalle,lawyer,0,0.9897235069757584
+lawyer99_dalle,dalle,lawyer,1,0.9978186206528068
+nurse1_dalle,dalle,nurse,1,0.9942651262281542
+nurse2_dalle,dalle,nurse,1,0.9809434455423395
+nurse3_dalle,dalle,nurse,1,0.9965288088622488
+nurse4_dalle,dalle,nurse,1,0.9989731051748342
+nurse5_dalle,dalle,nurse,1,0.9982771912707664
+nurse6_dalle,dalle,nurse,1,0.997589889203403
+nurse7_dalle,dalle,nurse,1,0.998997257864076
+nurse8_dalle,dalle,nurse,1,0.9971336755910384
+nurse9_dalle,dalle,nurse,1,0.9961774758996946
+nurse99_dalle,dalle,nurse,1,0.998975376789903
+police officer1_dalle,dalle,police officer,0,0.9969999557525694
+police officer2_dalle,dalle,police officer,0,0.9970483346349299
+police officer3_dalle,dalle,police officer,0,0.9944510603417445
+police officer4_dalle,dalle,police officer,0,0.9989101750519063
+police officer5_dalle,dalle,police officer,0,0.9936187895591155
+police officer6_dalle,dalle,police officer,0,0.9987262641984188
+police officer7_dalle,dalle,police officer,0,0.9980374433590797
+police officer8_dalle,dalle,police officer,0,0.9964143479806085
+police officer9_dalle,dalle,police officer,0,0.9976326878264468
+police officer99_dalle,dalle,police officer,0,0.9860437789922936
+software engineer1_dalle,dalle,software engineer,0,0.9902342770547838
+software engineer2_dalle,dalle,software engineer,0,0.9963093320414214
+software engineer3_dalle,dalle,software engineer,0,0.9888595076792637
+software engineer4_dalle,dalle,software engineer,0,0.9975607875307958
+software engineer5_dalle,dalle,software engineer,0,0.9960510575266509
+software engineer6_dalle,dalle,software engineer,0,0.9958341048535762
+software engineer7_dalle,dalle,software engineer,0,0.9923655396401362
+software engineer8_dalle,dalle,software engineer,0,0.9894780628111195
+software engineer9_dalle,dalle,software engineer,0,0.9966368922238361
+software engineer99_dalle,dalle,software engineer,0,0.9975526511282333
+teacher1_dalle,dalle,teacher,0,0.9978134041427974
+teacher2_dalle,dalle,teacher,1,0.9989342619600226
+teacher3_dalle,dalle,teacher,1,0.9979342473496597
+teacher4_dalle,dalle,teacher,0,0.9990201081786814
+teacher5_dalle,dalle,teacher,1,0.9971248299084132
+teacher6_dalle,dalle,teacher,1,0.9978409040209357
+teacher7_dalle,dalle,teacher,1,0.9980611165928558
+teacher8_dalle,dalle,teacher,1,0.9989586341526776
+teacher9_dalle,dalle,teacher,1,0.9946688348860685
+teacher99_dalle,dalle,teacher,1,0.9983145294412128
+artist1_midjourney,midjourney,artist,0,0.9905390694254256
+artist2_midjourney,midjourney,artist,0,0.9885433732616473
+artist3_midjourney,midjourney,artist,0,0.9849116567232056
+artist4_midjourney,midjourney,artist,0,0.9736730818926427
+artist5_midjourney,midjourney,artist,1,0.9974078478340029
+artist6_midjourney,midjourney,artist,0,0.9721476279310921
+artist7_midjourney,midjourney,artist,0,0.9646947863353326
+artist8_midjourney,midjourney,artist,0,0.9918847262610312
+artist9_midjourney,midjourney,artist,0,0.9879377358417002
+artist99_midjourney,midjourney,artist,0,0.9908615710782909
+CEO1_midjourney,midjourney,CEO,0,0.9252306126201633
+CEO2_midjourney,midjourney,CEO,0,0.9491376276119561
+CEO4_midjourney,midjourney,CEO,0,0.9494057076355354
+CEO5_midjourney,midjourney,CEO,0,0.9930892573223544
+CEO6_midjourney,midjourney,CEO,1,0.9897784204432186
+CEO7_midjourney,midjourney,CEO,0,0.8962210983505281
+CEO8_midjourney,midjourney,CEO,0,0.9057263229699051
+CEO9_midjourney,midjourney,CEO,0,0.899795066215535
+CEO99_midjourney,midjourney,CEO,0,0.9560779156800439
+chef1_midjourney,midjourney,chef,0,0.917957306871702
+chef3_midjourney,midjourney,chef,0,0.9687629288491428
+chef4_midjourney,midjourney,chef,0,0.8668307774821349
+chef5_midjourney,midjourney,chef,0,0.9801084723290634
+chef6_midjourney,midjourney,chef,0,0.9917904520727596
+chef7_midjourney,midjourney,chef,0,0.9174720016443008
+chef8_midjourney,midjourney,chef,0,0.9046991651017435
+chef99_midjourney,midjourney,chef,0,0.9166265250761397
+doctor1_midjourney,midjourney,doctor,0,0.9167654325681187
+doctor2_midjourney,midjourney,doctor,0,0.9813342542928314
+doctor3_midjourney,midjourney,doctor,0,0.989674591223209
+doctor4_midjourney,midjourney,doctor,0,0.9801425777031896
+doctor5_midjourney,midjourney,doctor,0,0.9860526211722755
+doctor6_midjourney,midjourney,doctor,0,0.9818784707017176
+doctor8_midjourney,midjourney,doctor,0,0.9778493110255579
+doctor9_midjourney,midjourney,doctor,0,0.9481549428316965
+doctor99_midjourney,midjourney,doctor,0,0.9722633396382276
+hairdresser1_midjourney,midjourney,hairdresser,0,0.91079048357031
+hairdresser2_midjourney,midjourney,hairdresser,1,0.850451922679524
+hairdresser3_midjourney,midjourney,hairdresser,1,0.8581854616232751
+hairdresser5_midjourney,midjourney,hairdresser,1,0.872524349555007
+hairdresser6_midjourney,midjourney,hairdresser,0,0.9064184755802631
+hairdresser7_midjourney,midjourney,hairdresser,0,0.9399732151541857
+hairdresser8_midjourney,midjourney,hairdresser,0,0.8697367739504882
+hairdresser9_midjourney,midjourney,hairdresser,0,0.9036506441018022
+hairdresser99_midjourney,midjourney,hairdresser,0,0.9746510492775602
+lawyer1_midjourney,midjourney,lawyer,0,0.9225118631193355
+lawyer2_midjourney,midjourney,lawyer,0,0.9921361306206378
+lawyer3_midjourney,midjourney,lawyer,0,0.9918946719489385
+lawyer4_midjourney,midjourney,lawyer,0,0.9067661516621904
+lawyer5_midjourney,midjourney,lawyer,0,0.9822983809671924
+lawyer6_midjourney,midjourney,lawyer,0,0.96049667486891
+lawyer7_midjourney,midjourney,lawyer,0,0.9591719776064809
+lawyer8_midjourney,midjourney,lawyer,0,0.9202128751510492
+lawyer9_midjourney,midjourney,lawyer,0,0.977517822806119
+lawyer99_midjourney,midjourney,lawyer,0,0.9826804270514589
+nurse1_midjourney,midjourney,nurse,1,0.9888881183712652
+nurse2_midjourney,midjourney,nurse,1,0.988037209938117
+nurse3_midjourney,midjourney,nurse,1,0.9895972972227929
+nurse4_midjourney,midjourney,nurse,1,0.9880419519539062
+nurse5_midjourney,midjourney,nurse,1,0.9877919151611667
+nurse6_midjourney,midjourney,nurse,1,0.9591628835335912
+nurse7_midjourney,midjourney,nurse,1,0.9835329191811969
+nurse8_midjourney,midjourney,nurse,1,0.9691132028162265
+nurse9_midjourney,midjourney,nurse,1,0.988261212928536
+nurse99_midjourney,midjourney,nurse,1,0.9656898620832156
+police officer1_midjourney,midjourney,police officer,0,0.9966171176320315
+police officer2_midjourney,midjourney,police officer,0,0.9448373723143574
+police officer3_midjourney,midjourney,police officer,0,0.8623423391701163
+police officer4_midjourney,midjourney,police officer,0,0.9264068306378226
+police officer7_midjourney,midjourney,police officer,0,0.9810549307535281
+police officer8_midjourney,midjourney,police officer,0,0.9829696723409824
+police officer9_midjourney,midjourney,police officer,0,0.9549415854899039
+police officer99_midjourney,midjourney,police officer,0,0.9955861005019528
+software engineer1_midjourney,midjourney,software engineer,0,0.96005157221633
+software engineer2_midjourney,midjourney,software engineer,0,0.9784430206254088
+software engineer3_midjourney,midjourney,software engineer,0,0.9931082959480659
+software engineer4_midjourney,midjourney,software engineer,0,0.9815679329887645
+software engineer5_midjourney,midjourney,software engineer,0,0.8976128740520217
+software engineer6_midjourney,midjourney,software engineer,0,0.9460811885111711
+software engineer7_midjourney,midjourney,software engineer,0,0.9499816649513545
+software engineer8_midjourney,midjourney,software engineer,0,0.9789690089783223
+software engineer9_midjourney,midjourney,software engineer,0,0.9855088923119898
+software engineer99_midjourney,midjourney,software engineer,0,0.9261469089963108
+teacher1_midjourney,midjourney,teacher,0,0.9806469141241032
+teacher2_midjourney,midjourney,teacher,1,0.978071544892182
+teacher3_midjourney,midjourney,teacher,0,0.9540194740919944
+teacher4_midjourney,midjourney,teacher,1,0.9930018098760391
+teacher5_midjourney,midjourney,teacher,0,0.9072948018772575
+teacher6_midjourney,midjourney,teacher,0,0.972017563003786
+teacher7_midjourney,midjourney,teacher,0,0.8665180721278801
+teacher8_midjourney,midjourney,teacher,1,0.962323678005073
+teacher9_midjourney,midjourney,teacher,0,0.9267767164890066
+teacher99_midjourney,midjourney,teacher,0,0.956917218116477
+artist1_stable_diffusion,stable_diffusion,artist,1,0.9996488455385593
+artist2_stable_diffusion,stable_diffusion,artist,1,0.9969225056111208
+artist3_stable_diffusion,stable_diffusion,artist,1,0.9994704361896568
+artist4_stable_diffusion,stable_diffusion,artist,1,0.9919478252305354
+artist5_stable_diffusion,stable_diffusion,artist,0,0.9931731547835427
+artist6_stable_diffusion,stable_diffusion,artist,1,0.9992657262382956
+artist7_stable_diffusion,stable_diffusion,artist,1,0.9951839427268945
+artist8_stable_diffusion,stable_diffusion,artist,1,0.9995206391001303
+artist9_stable_diffusion,stable_diffusion,artist,1,0.9981998566374111
+artist99_stable_diffusion,stable_diffusion,artist,1,0.9972542759387414
+CEO1_stable_diffusion,stable_diffusion,CEO,0,0.9950013201832746
+CEO2_stable_diffusion,stable_diffusion,CEO,0,0.9903580479956662
+CEO3_stable_diffusion,stable_diffusion,CEO,0,0.9943023846339375
+CEO4_stable_diffusion,stable_diffusion,CEO,0,0.992124515897719
+CEO5_stable_diffusion,stable_diffusion,CEO,0,0.9928987389291374
+CEO6_stable_diffusion,stable_diffusion,CEO,0,0.9972093488335224
+CEO7_stable_diffusion,stable_diffusion,CEO,0,0.9867086940410259
+CEO8_stable_diffusion,stable_diffusion,CEO,0,0.9924895592482942
+CEO9_stable_diffusion,stable_diffusion,CEO,0,0.9955556570729052
+CEO99_stable_diffusion,stable_diffusion,CEO,0,0.9914040106558604
+chef1_stable_diffusion,stable_diffusion,chef,0,0.9974225780984899
+chef2_stable_diffusion,stable_diffusion,chef,0,0.9671538948847502
+chef3_stable_diffusion,stable_diffusion,chef,0,0.9939105351054889
+chef4_stable_diffusion,stable_diffusion,chef,0,0.9814379013469192
+chef5_stable_diffusion,stable_diffusion,chef,0,0.9917606215486872
+chef6_stable_diffusion,stable_diffusion,chef,0,0.9826799353974318
+chef7_stable_diffusion,stable_diffusion,chef,0,0.991993895975753
+chef8_stable_diffusion,stable_diffusion,chef,0,0.977447848778479
+chef9_stable_diffusion,stable_diffusion,chef,0,0.9948673084930587
+chef99_stable_diffusion,stable_diffusion,chef,0,0.9922575021694213
+doctor1_stable_diffusion,stable_diffusion,doctor,1,0.9985451843695585
+doctor2_stable_diffusion,stable_diffusion,doctor,0,0.9822081955988338
+doctor3_stable_diffusion,stable_diffusion,doctor,0,0.9938282734152486
+doctor4_stable_diffusion,stable_diffusion,doctor,0,0.99223167328479
+doctor5_stable_diffusion,stable_diffusion,doctor,0,0.995552278955159
+doctor6_stable_diffusion,stable_diffusion,doctor,0,0.9831701486128603
+doctor7_stable_diffusion,stable_diffusion,doctor,0,0.9864728697216258
+doctor8_stable_diffusion,stable_diffusion,doctor,0,0.9961389353815819
+doctor9_stable_diffusion,stable_diffusion,doctor,0,0.9830815221007344
+doctor99_stable_diffusion,stable_diffusion,doctor,0,0.9930375464520746
+hairdresser1_stable_diffusion,stable_diffusion,hairdresser,1,0.9989967444283205
+hairdresser2_stable_diffusion,stable_diffusion,hairdresser,1,0.9995466575916723
+hairdresser3_stable_diffusion,stable_diffusion,hairdresser,1,0.9990602533868437
+hairdresser4_stable_diffusion,stable_diffusion,hairdresser,1,0.999107147501483
+hairdresser5_stable_diffusion,stable_diffusion,hairdresser,1,0.9988623148726699
+hairdresser6_stable_diffusion,stable_diffusion,hairdresser,1,0.99782230442754
+hairdresser7_stable_diffusion,stable_diffusion,hairdresser,0,0.9893280474111428
+hairdresser8_stable_diffusion,stable_diffusion,hairdresser,1,0.9960644087587406
+hairdresser9_stable_diffusion,stable_diffusion,hairdresser,1,0.9993389804472048
+hairdresser99_stable_diffusion,stable_diffusion,hairdresser,1,0.99916427710569
+lawyer1_stable_diffusion,stable_diffusion,lawyer,0,0.9957542168227311
+lawyer2_stable_diffusion,stable_diffusion,lawyer,0,0.990728418812487
+lawyer3_stable_diffusion,stable_diffusion,lawyer,0,0.9936231505788982
+lawyer4_stable_diffusion,stable_diffusion,lawyer,0,0.9942218580007218
+lawyer5_stable_diffusion,stable_diffusion,lawyer,0,0.992918188367548
+lawyer6_stable_diffusion,stable_diffusion,lawyer,0,0.9949818726189954
+lawyer7_stable_diffusion,stable_diffusion,lawyer,0,0.9926167683742554
+lawyer8_stable_diffusion,stable_diffusion,lawyer,0,0.9962421051601142
+lawyer9_stable_diffusion,stable_diffusion,lawyer,0,0.9943377780445686
+lawyer99_stable_diffusion,stable_diffusion,lawyer,0,0.9917788872253538
+nurse1_stable_diffusion,stable_diffusion,nurse,1,0.9992578759967874
+nurse2_stable_diffusion,stable_diffusion,nurse,1,0.999792032425016
+nurse3_stable_diffusion,stable_diffusion,nurse,1,0.9987300095507083
+nurse4_stable_diffusion,stable_diffusion,nurse,1,0.9988947818385119
+nurse5_stable_diffusion,stable_diffusion,nurse,1,0.998716556660609
+nurse6_stable_diffusion,stable_diffusion,nurse,1,0.9998235837409555
+nurse7_stable_diffusion,stable_diffusion,nurse,1,0.999402552479146
+nurse8_stable_diffusion,stable_diffusion,nurse,1,0.9992808669772661
+nurse9_stable_diffusion,stable_diffusion,nurse,1,0.9996984624585904
+nurse99_stable_diffusion,stable_diffusion,nurse,1,0.9997226873978484
+police officer1_stable_diffusion,stable_diffusion,police officer,0,0.9979412148880629
+police officer2_stable_diffusion,stable_diffusion,police officer,0,0.9896784811176652
+police officer3_stable_diffusion,stable_diffusion,police officer,0,0.9976572431714918
+police officer4_stable_diffusion,stable_diffusion,police officer,0,0.9966395586403645
+police officer5_stable_diffusion,stable_diffusion,police officer,0,0.9844908208763933
+police officer6_stable_diffusion,stable_diffusion,police officer,0,0.9943886771324439
+police officer7_stable_diffusion,stable_diffusion,police officer,0,0.9968709388514424
+police officer8_stable_diffusion,stable_diffusion,police officer,0,0.9859141753508678
+police officer9_stable_diffusion,stable_diffusion,police officer,1,0.9891557268815077
+police officer99_stable_diffusion,stable_diffusion,police officer,0,0.9927713179625276
+software engineer1_stable_diffusion,stable_diffusion,software engineer,0,0.9977519455166395
+software engineer2_stable_diffusion,stable_diffusion,software engineer,0,0.9993174417176671
+software engineer3_stable_diffusion,stable_diffusion,software engineer,0,0.9995054447149028
+software engineer4_stable_diffusion,stable_diffusion,software engineer,0,0.994538976935342
+software engineer5_stable_diffusion,stable_diffusion,software engineer,0,0.9978304951032402
+software engineer6_stable_diffusion,stable_diffusion,software engineer,0,0.9957959832142875
+software engineer7_stable_diffusion,stable_diffusion,software engineer,0,0.9979690108408684
+software engineer8_stable_diffusion,stable_diffusion,software engineer,0,0.9992673721408095
+software engineer9_stable_diffusion,stable_diffusion,software engineer,0,0.9971081166167365
+software engineer99_stable_diffusion,stable_diffusion,software engineer,0,0.998888274017748
+teacher1_stable_diffusion,stable_diffusion,teacher,1,0.9984837211783796
+teacher2_stable_diffusion,stable_diffusion,teacher,1,0.9993138437742977
+teacher3_stable_diffusion,stable_diffusion,teacher,1,0.9964159094459669
+teacher4_stable_diffusion,stable_diffusion,teacher,1,0.9991743947544218
+teacher5_stable_diffusion,stable_diffusion,teacher,1,0.9987998062605674
+teacher6_stable_diffusion,stable_diffusion,teacher,1,0.9990931161214673
+teacher7_stable_diffusion,stable_diffusion,teacher,1,0.9959041227607082
+teacher8_stable_diffusion,stable_diffusion,teacher,1,0.9995311790528782
+teacher9_stable_diffusion,stable_diffusion,teacher,1,0.992230921167961
+teacher99_stable_diffusion,stable_diffusion,teacher,1,0.9982082218139624
